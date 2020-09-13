@@ -1,6 +1,6 @@
 ---
 title: Modifier le style
-linktitle: Modifier le style
+linktitle: 27-Modifier le style
 type: book
 date: "2019-05-05T00:00:00+01:00"
 
@@ -12,8 +12,9 @@ weight: 27
 
 En cliquant sur le bouton « Document Preferences », vous pouvez modifier le style de citation : les citations et la bibliographie se mettent automatiquement à jour.
 
-## Exercices
+## Vidéo
 
-En suivant les indications, modifiez le style de votre bibliographie.
+Lien : [ici](http://g.recordit.co/qb44FDhXBo.gif)
+
 
  
