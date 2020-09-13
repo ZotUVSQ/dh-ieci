@@ -18,7 +18,7 @@ Lorsque vous cliquez sur l’icône, une fenêtre s’ouvre et affiche la liste 
 
  Vous pouvez retrouver [ici](https://www.zotero.org/support/fr/translators) la liste des catalogues et des bases de données qui sont compatibles avec Zotero.
  
- http://g.recordit.co/WrnuJ9evhM.gif
+![Alt Text](http://g.recordit.co/WrnuJ9evhM.gif)
 
 ## Exercices
 
