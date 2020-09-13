@@ -7,11 +7,6 @@ weight = 10  # Order that this section will appear.
 
 title = "Documentation Humanités Numériques"
 
-Site web regroupant la documentation pour les UE **Humanités Numériques**, **NTIC**, **Préparation mémoire** au sein de l'IECI.
-
-**Personne en charge du site** : Maximilien PETIT
-**Mél.** maximilien.petit@uvsq.fr
-**Tél.** 06 51 74 95 69
 
 # Hero image (optional). Enter filename of an image in the `static/media/` folder.
 hero_media = "book.svg"
