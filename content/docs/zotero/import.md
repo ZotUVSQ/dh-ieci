@@ -17,6 +17,8 @@ Quand vous accédez à une base de données, à un catalogue de bibliothèque, Z
 Lorsque vous cliquez sur l’icône, une fenêtre s’ouvre et affiche la liste des résultats. Il s’agit ensuite de cliquer sur la (ou les) référence qui vous intéresse et de confirmer votre choix. L’import de la référence s’effectue ensuite automatiquement dans le dossier/sous-dossier dans lequel vous pointez. L’import se fait également, automatiquement, dans le dossier « Ma bibliothèque » puisqu’il contient bien évidemment la totalité de vos références.
 
  Vous pouvez retrouver [ici](https://www.zotero.org/support/fr/translators) la liste des catalogues et des bases de données qui sont compatibles avec Zotero.
+ 
+ https://recordit.co/WrnuJ9evhM
 
 ## Exercices
 
