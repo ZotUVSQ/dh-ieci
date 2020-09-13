@@ -22,15 +22,11 @@ Il est nécessaire de télécharger Zotero + un connecteur relié à un navigate
 
 ## Exercices
 
- – Choisissez, en groupe, le sujet que vous voulez aborder pour l’exercice :
+- Choisissez, en groupe, le sujet que vous voulez aborder pour l’exercice : **Les données de la recherche en SHS, la santé des Inuit, les femmes dans le monde culturel, le théâtre et ses publics.**
 
-**Les données de la recherche en SHS. La santé des Inuit.**
+- Indiquez dans votre carnet de recherche, en une ou deux phrases, ce qui vous motive/intéresse dans le sujet.
 
-**Le théâtre et ses publics : la sociologie des spectateurs au théâtre. Les femmes dans le monde culturel.**
-
-– Indiquez dans votre carnet de recherche, en une ou deux phrases, ce qui vous motive/intéresse dans le sujet.
-
-– Si ce n’est pas déjà réalisé, procédez à l’installation de Zotero sur votre ordinateur.
+- Si ce n’est pas déjà réalisé, procédez à l’installation de Zotero sur votre ordinateur.
 
  
 
