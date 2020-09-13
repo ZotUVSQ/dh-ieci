@@ -53,6 +53,4 @@ Site web regroupant la documentation pour les UE **Humanités Numériques**, **N
 
 Maximilien PETIT / maximilien.petit@uvsq.fr / 06 51 74 95 69
 
-<iframe src="https://discord.com/widget?id=754815129958219837&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
-
 
