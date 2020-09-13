@@ -1,6 +1,6 @@
 ---
 title: Bibliographie
-linktitle: Bibliographie
+linktitle: 21-Bibliographie
 type: book
 date: "2019-05-05T00:00:00+01:00"
 
@@ -17,6 +17,10 @@ Zotero va vous permettre de gagner beaucoup de temps dans le sens où vous allez
 Pour faire simple, sélectionnez un dossier/sous-dossier, puis clic droit et « Créer une bibliographie à partir de la collection ». Vous pouvez choisir le style de citation de votre bibliographie. Cochez « Bibliographie » dans « Mode de création » et sélectionnez la « méthode de création » : format RTF, HTML, copie dans le presse-papiers, impression.
 
 Si rien ne vous convient, vous pouvez cliquer sur « Gérer les styles » puis sur le bouton « Obtenir d’autres styles » qui va vous permettre de parcourir le réservoir de plus de 9 000 styles qui s’y trouvent. Avec le bouton « + », vous pouvez importer un style se trouvant sur votre ordinateur.
+
+## Vidéo
+
+Lien : [ici](http://g.recordit.co/Rhtn9dzE8a.gif)
 
 ## Exercices
 
