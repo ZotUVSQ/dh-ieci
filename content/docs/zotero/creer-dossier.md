@@ -1,6 +1,6 @@
 ---
 title: Création des dossiers
-linktitle: Création des dossiers
+linktitle: 8-Création des dossiers
 type: book
 date: "2019-05-05T00:00:00+01:00"
 
@@ -11,6 +11,10 @@ weight: 8
 ## Créer des dossiers et des sous-dossiers
 
 Pour créer un dossier, cliquez sur le bouton « Nouvelle collection » au-dessus de votre colonne de gauche. Vous pouvez également faire de même en faisant un clic droit sur « Ma bibliothèque ». Vous pouvez donc attribuer un nom à votre dossier/sous-dossier (possibilité de le renommer, le cas échéant, en faisant un clic droit ou en double-cliquant).
+
+## Vidéo
+
+Lien : [ici](http://g.recordit.co/fGuCULdX5C.gif)
 
 ## Exercices
 
