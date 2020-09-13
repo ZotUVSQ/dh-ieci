@@ -12,43 +12,19 @@ date: "2018-09-09T00:00:00Z"
 type: book  # Do not modify.
 ---
 
-## Flexibility
+## Consignes
 
-This feature can be used for publishing content such as:
+**Composition** : X étudiants. Constitution de X groupes.
 
-* **Online courses**
-* **Project or software documentation**
-* **Tutorials**
-* **Notes**
+**Principe** : En 12 heures, les étudiants vont devoir apprendre à utiliser Zotero et quelques principes de recherche documentaire afin de constituer, sur une thématique précise, une bibliothèque de groupe, un « carnet de recherche », une bibliographie. Les étudiants, dans chaque groupe, pourront (si besoin) adopter des rôles particuliers : 
 
-The `courses` folder may be renamed. For example, we can rename it to `docs` for software/project documentation or `tutorials` for creating an online course.
+- Une personne en charge de la structuration de la bibliothèque Zotero.
+- Un rapporteur devant « rendre des comptes » à l'enseignant et pouvant solliciter l'aide des autres rapporteurs des différents groupes si besoin.
+- Une personne en charge du « carnet de recherche ». Ce carnet doit permettre d'établir, le plus précisément possible, l'historique de recherche des références bibliographiques : les bases utilisées ? les mots-clés ? les experts ?
+- Une personne en charge des recherches documentaires afin d'alimenter la bibliothèque Zotero (entre 25 et 50 références demandées).
 
-## Delete courses
+Cette distribution des rôles n'est qu'une proposition. Le seul rôle obligatoire étant celui du rapporteur qui sera l'interlocuteur principal de l'enseignant.
 
-**To remove these pages, delete the `courses` folder and see below to delete the associated menu link.**
+Après constitution des groupes, distribution des rôles, il s'agira de choisir un sujet de recherche.
 
-## Update site menu
-
-After renaming or deleting the `courses` folder, you may wish to update any `[[main]]` menu links to it by editing your menu configuration at `config/_default/menus.toml`.
-
-For example, if you delete this folder, you can remove the following from your menu configuration:
-
-```toml
-[[main]]
-  name = "Courses"
-  url = "courses/"
-  weight = 50
-```
-
-Or, if you are creating a software documentation site, you can rename the `courses` folder to `docs` and update the associated *Courses* menu configuration to:
-
-```toml
-[[main]]
-  name = "Docs"
-  url = "docs/"
-  weight = 50
-```
-
-## Update the docs menu
-
-If you use the *docs* layout, note that the name of the menu in the front matter should be in the form `[menu.X]` where `X` is the folder name. Hence, if you rename the `courses/example/` folder, you should also rename the menu definitions in the front matter of files within `courses/example/` from `[menu.example]` to `[menu.<NewFolderName>]`.
+Enfin, les groupes vont devoir parcourir le guide (dans l'ordre) et réaliser les exercices qui ont pour but de valider les connaissances et de progresser dans la tâche évaluée : rendre une bibliothèque Zotero structurée, un carnet de recherche, une bibliographie.
