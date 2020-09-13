@@ -14,7 +14,7 @@ Dans la colonne centrale, le bouton **« Nouvelle note »** vous permet d’ajou
 
 L’éditeur de texte pour les notes est basique, vous pouvez mettre en page (gras, italique, souligné, etc.), ajouter des liens, des citations, structurer en paragraphes. N’oubliez pas que le moteur de recherche de Zotero interroge également par défaut ce que vous ajoutez dans vos notes.
 
-##Vidéo
+## Vidéo
 
 Lien : [ici](http://g.recordit.co/VbWcGOsbSQ.gif)
 
